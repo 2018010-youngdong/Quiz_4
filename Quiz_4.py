@@ -5,3 +5,4 @@ def nbyn(a):
         for y in range(1,a+1):
             print(x, 'x', y, '=', x*y)
 nbyn(A)
+    
